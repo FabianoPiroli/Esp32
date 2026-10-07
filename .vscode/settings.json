@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/Users/operador1/Documents/Esp32/teste"
+    "cmake.configureOnOpen": false,
+    "cmake.autoSelectActiveFolder": false
 }
