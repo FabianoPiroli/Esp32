@@ -506,6 +506,9 @@
             "cStandard": "gnu23",
             "cppStandard": "gnu++26",
             "intelliSenseMode": "linux-gcc-x64",
+            "forcedInclude": [
+                "/Users/operador1/Documents/Esp32/teste/include/preinclude.h"
+            ],
             "compilerPath": "/Users/operador1/.platformio/packages/toolchain-xtensa-esp-elf/bin/xtensa-esp32-elf-gcc",
             "compilerArgs": [
                 "@/Users/operador1/Documents/Esp32/teste/.pio/build/upesy_wroom/toolchain/cflags",
