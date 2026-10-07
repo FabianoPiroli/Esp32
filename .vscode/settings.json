@@ -1,4 +1,5 @@
 {
     "cmake.configureOnOpen": false,
-    "cmake.autoSelectActiveFolder": false
+    "cmake.autoSelectActiveFolder": false,
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-x64"
 }
